@@ -1,0 +1,6 @@
+:HL["/Pallavi_Khtri/_next/static/chunks/1rn_hgej4cepx.css","style"]
+:HL["/Pallavi_Khtri/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Pallavi_Khtri/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Pallavi_Khtri/images/image2.jpeg","image"]
+:HL["/Pallavi_Khtri/images/image1.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"EGcZWhD1YS9FJTpkqDlNE"}
